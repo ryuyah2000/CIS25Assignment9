@@ -21,4 +21,6 @@ int main() {
     } else {
         std::cout << "You are not eligible for the job..." << std::endl;
     }
+
+    return 0;
 }
