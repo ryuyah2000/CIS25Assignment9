@@ -1,5 +1,5 @@
 // Asks questions to determine whether you're eligible for the job
-// will 
+// will ask for 3 criteria to determine whether you're eligible
 // code by Ryuya Hirota
 
 #include <iostream>
